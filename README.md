@@ -1,11 +1,11 @@
 <div align="center">
 
-# Streamer Arsonist
+# Streamer Arsonist (Bitlife Inspired)
 
 Chaotic streamer life sim inspired by Bitlife.
 
-![Version](https://img.shields.io/badge/version-1.5.2-ff4500?style=flat-square)
-![Chrome](https://img.shields.io/badge/Chrome-Extension-ff4500?style=flat-square&logo=googlechrome&logoColor=white)
+![Version](https://img.shields.io/badge/version-1.5.2-d0c3f4?style=flat-square)
+![Chrome](https://img.shields.io/badge/Chrome-Extension-d0c3f4?style=flat-square&logo=googlechrome&logoColor=white)
 
 <img src="https://github.com/nicholasxdavis/streamer-arsonist/blob/main/demo/screenshot.png?raw=true" alt="Streamer Arsonist" width="720" />
 
