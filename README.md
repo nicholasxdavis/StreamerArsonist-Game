@@ -1,6 +1,6 @@
 <div align="center">
 
-# Streamer Arsonist
+# Streamer Arsonist (Bitlife Inspired)
 
 Chaotic streamer life sim inspired by Bitlife.
 
