@@ -7,7 +7,7 @@ Chaotic streamer life sim inspired by Bitlife.
 ![Version](https://img.shields.io/badge/version-1.5.2-ff4500?style=flat-square)
 ![Chrome](https://img.shields.io/badge/Chrome-Extension-ff4500?style=flat-square&logo=googlechrome&logoColor=white)
 
-<img src="https://github.com/nicholasxdavis/streamer-arsonist/blob/main/demo/01-hook.png?raw=true" alt="Streamer Arsonist" width="720" />
+<img src="https://github.com/nicholasxdavis/streamer-arsonist/blob/main/demo/screenshot.png?raw=true" alt="Streamer Arsonist" width="720" />
 
 </div>
 
