@@ -13,7 +13,7 @@ Chaotic streamer life sim inspired by Bitlife.
 
 ## Download (Try it!)
 
-Google Chrome: Not Released Yet 
+Google Chrome: [Download](https://chromewebstore.google.com/detail/streamer-arsonist-simulat/cdgianlkpamppfobljdafeajakgjijfj?authuser=0&hl=en)
 
 ## Features
 
